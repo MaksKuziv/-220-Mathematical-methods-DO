@@ -9,7 +9,7 @@
     1. Отримано наступні результати Maks start programming at 2023-02-12 20:53:11.821844
     1. Навчились працювати з GitHub/Git/VS Code та створювати свою першу програму на Python
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-![alt text](https://github.com/MaksKuziv/-220-Mathematical-methods-DO/blob/main/laba_1/pictures/Screenshot_1.png"Перша програма")
+![alt text](https://github.com/MaksKuziv/-220-Mathematical-methods-DO/raw/main/laba_1/pictures/Screenshot_1.png "Перша програма")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
